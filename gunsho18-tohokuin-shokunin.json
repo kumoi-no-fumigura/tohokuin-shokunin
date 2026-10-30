@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tohokuin-shokunin",
  "yomi": "とうほくいんしょくにんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "職人歌合",
+  "era": "鎌倉時代",
+  "author": "未詳",
+  "desc": "建保2年秋、東北院の念仏に集まった医師・陰陽師・仏師など24種の職人が、「月」と「恋」の題で歌を合わせたという趣向の歌合。職人歌合のはじめのものとされる。"
+ },
  "editions": [
   {
    "pid": "1879575",
